@@ -1,0 +1,12 @@
+name = input("An wen geht die Nachricht? ")
+absender = input("Wer ist der Absender? ")
+
+print(f"Hallo {name}")
+print("")
+print("Mit dieser E-Mail möchte ich dich über meine neue Adresse informieren.")
+print("")
+print("Musterstraße 123")
+print("12345 Musterhausen")
+print("Viele Grüße")
+print("")
+print(f"{absender}")
